@@ -1,7 +1,7 @@
-asgiref==3.7.2
+
 Django~=5.1.1
 Pillow==4.1.0
-sqlparse==4.1.1
-tzdata==2023.3
+
+
 
 
